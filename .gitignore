@@ -1,0 +1,15 @@
+# Ignore the dataset folder
+food_data/
+food_data
+
+# Ignore the output folder
+processed_images/
+processed_images
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
